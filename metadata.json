@@ -1,0 +1,6 @@
+{
+  "name": "Kingdom Blast",
+  "description": "A vibrant match-3 puzzle adventure where you match gems, trigger explosive boosters, and restore a magical royal kingdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
