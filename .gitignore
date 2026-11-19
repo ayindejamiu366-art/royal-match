@@ -22,5 +22,4 @@ android/app/src/main/assets/public/
 # Backup directory
 backup_android/
 
-# Package lock (optional - can be committed if desired)
-package-lock.json
+# package-lock.json is committed for reproducible CI installs
