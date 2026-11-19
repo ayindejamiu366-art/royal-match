@@ -14,7 +14,4 @@
         <item name="android:statusBarColor">#020617</item>
         <item name="android:navigationBarColor">#020617</item>
     </style>
-
-    <color name="amber_400">#fbbf24</color>
-    <color name="amber_500">#f59e0b</color>
 </resources>
