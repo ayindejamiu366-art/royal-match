@@ -1,0 +1,26 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+ios/
+
+# Android machine-specific and build outputs
+android/local.properties
+android/.gradle/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+android/gradlew.bat~
+android/gradlew~
+
+# Build outputs copied into Android assets by cap sync
+android/app/src/main/assets/public/
+
+# Backup directory
+backup_android/
+
+# Package lock (optional - can be committed if desired)
+package-lock.json

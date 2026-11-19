@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#020617</color>
+    <color name="amber_400">#fbbf24</color>
+    <color name="amber_500">#f59e0b</color>
+    <color name="indigo_950">#0f172a</color>
+</resources>

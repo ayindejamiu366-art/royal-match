@@ -1,0 +1,11 @@
+rootProject.name = 'kingdomblast'
+include ':app'
+
+def capacitorAndroidDir = new File('../node_modules/@capacitor/android/capacitor')
+include ':capacitor-android'
+project(':capacitor-android').projectDir = capacitorAndroidDir
+
+def capacitorSettings = file('capacitor.settings.gradle')
+if (capacitorSettings.exists()) {
+    apply from: capacitorSettings
+}
